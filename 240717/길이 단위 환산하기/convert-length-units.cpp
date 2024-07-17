@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    float temp;
+    double temp;
     cin>> temp;
     cout.fixed;
     cout.precision(1);
