@@ -4,6 +4,6 @@ using namespace std;
 int main() {
     string a,b;
     cin>>a>>b;
-    cout<<a<<endl<<b;
+    cout<<b<<endl<<a;
     return 0;
 }
