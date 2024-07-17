@@ -3,9 +3,9 @@ using namespace std;
 
 int main() {
     int a,b;
-    cin<<a;
+    cin>>a;
     cin.ignore();
-    cin<<b;
+    cin>>b;
     cout<<a<<b;
     return 0;
 }
